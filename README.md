@@ -7,4 +7,4 @@ Drop me line at [hi@ganslandt.xyz](mailto:hi@ganslandt.xyz) if you'd like to wor
 
 🏡 https://ganslandt.xyz
 
-🐦 https://twitter.com/Ansimorph
+🐘 https://front-end.social/@Ansimorph
